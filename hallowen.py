@@ -14,3 +14,12 @@ print("Here you can find more scary films for halloween")
 
 more_scary_films = ["from", "ghost", "smile", "IT"]
 print (more_scary_films)
+
+
+fraga = input("which of these two films are more scarier, IT and the nun").lower()
+
+if fraga == "it":
+    print("jamiaca")
+
+else:
+    print("madagascar")
